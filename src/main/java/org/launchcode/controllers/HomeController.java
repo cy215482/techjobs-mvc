@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import java.util.HashMap;
 
 /**
- * Created by LaunchCode
+ * Created by Cat
  */
 @Controller
 public class HomeController {
